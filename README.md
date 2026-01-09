@@ -1,2 +1,2 @@
 # React-Js
-Hittesh tutorial
+Completed Full Course list
